@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NingsVille
+- 👋 Hi, I’m a random 12 year old
 - 👀 I’m interested in Programming and making things
 - 🌱 I’m currently learning JS, CSS, HTML, Golang and Swift
-- 💞️ I’m looking to collaborate on A programming language
+- 💞️ I’m looking to collaborate on a programming language
 - 📫 Reach me at http://quanthai.net/ningchat or ningnsm9@gmail.com
 
 <!---
